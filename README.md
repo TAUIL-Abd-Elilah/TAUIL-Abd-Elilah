@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TAUIL Abd Elilah.
-- 👀 I’m interested in applied machine learning, deep learning, data science, algorithm questions, competitive programming, and problem-solving.
+- 👀 I’m interested in machine learning, deep learning, data science, algorithm questions, competitive programming, and problem-solving.
 - 🌱 I’m currently doing research as a Ph.D. student.
 - 📫 If you wanna reach me  here it is my Gmail : tauilabdelilah97@gmail.com,
       my Linedin : https://www.linkedin.com/in/tauil-abd-elilah-076967176/
